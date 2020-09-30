@@ -14,4 +14,4 @@
 - 💬 Ask me about NodeJS
 - ⚡ Fun fact: Im gamer and i love to Play COD
 
-[(https://github-readme-stats.vercel.app/api?username=Rubalaine&show_icons=true&theme=dark)] [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rubalaine&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[[!rubalaine's stats](https://github-readme-stats.vercel.app/api?username=Rubalaine&show_icons=true&theme=dark)] [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rubalaine&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
