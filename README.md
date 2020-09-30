@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning CSS
 - 👯 I’m looking to collaborate on All Projects XD
 - 💬 Ask me about NodeJS
-- ⚡ Fun fact: Im gamer and i love to Play COD
+- ⚡ Fun fact: I'm gamer and i love to Play COD
 
 <table align="center">
 <tbody>
