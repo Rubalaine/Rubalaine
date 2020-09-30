@@ -14,7 +14,7 @@
 - 💬 Ask me about NodeJS
 - ⚡ Fun fact: Im gamer and i love to Play COD
 
-<table>
+<table align="center">
 <tbody>
 <td>
     
@@ -22,7 +22,7 @@
 </td>
 <td>
     
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rubalaine&theme=dark&hide=hack&text_color=BDDFFF&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rubalaine&theme=dark&hide=hack&text_color=BDDFFF&layout=compact)
 </td>
 </tbody>
 </table>
