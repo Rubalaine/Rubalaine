@@ -8,8 +8,8 @@
     <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-- 🔭 I’m currently working on improving my CSS skills
-- 🌱 I’m currently learning CSS
+- 🔭 Learnign ReactJs
+- 🌱 Learning PostgresSQL
 - 👯 I’m looking to collaborate on All Projects XD
 - 💬 Ask me about NodeJS
 - ⚡ Fun fact: I'm gamer and i love to Play COD
