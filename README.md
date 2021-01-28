@@ -1,6 +1,6 @@
 <h1 align="center"> Kelven Rubalaine </h1>
 
-<h3 align="center"> Student | Fullstack Developer </h3>
+<h3 align="center"> ReactJS | NodeJS | PostgresSQL </h3>
 
 <p align="center">
     
