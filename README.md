@@ -1,18 +1,13 @@
 <h1 align="center"> Kelven Rubalaine </h1>
 
-<h3 align="center"> ReactJS | NodeJS | PostgresSQL </h3>
+<h3 align="center"> ReactJS | TypeScript | NodeJS </h3>
 
 <p align="center">
     
 <a href="https://www.linkedin.com/in/kelvenrubalaine/">
     <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-- 🔭 Learnign ReactJs
-- 🌱 Learning PostgresSQL
-- 👯 I’m looking to collaborate on All Projects XD
-- 💬 Ask me about NodeJS
-- ⚡ Fun fact: I'm gamer and i love to Play COD
+olá meu nome é kelven horácio joão rubalaie, sou estudante de programacao e amante das tecnologias, sou amante do desenvolvimento web, actualmente focado em ReactJS e TypeScript para o desenvolvimento dos meus projectos
 
 <table align="center">
 <tbody>
