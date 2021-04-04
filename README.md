@@ -7,6 +7,7 @@
 <a href="https://www.linkedin.com/in/kelvenrubalaine/">
     <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+</p>
 olá meu nome é kelven horácio joão rubalaie, sou estudante de programacao e amante das tecnologias, sou amante do desenvolvimento web, actualmente focado em ReactJS e TypeScript para o desenvolvimento dos meus projectos
 
 <table align="center">
