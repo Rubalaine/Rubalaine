@@ -1,6 +1,6 @@
 <h1 align="center"> Kelven Rubalaine </h1>
 
-<h3 align="center"> ReactJS | TypeScript | NodeJS </h3>
+<h3 align="center"> Frontend Developer | Mobile Developer </h3>
 
 <p align="center">
     
@@ -8,17 +8,7 @@
     <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
-olá meu nome é kelven horácio joão rubalaie, sou estudante de programacao e amante das tecnologias, sou amante do desenvolvimento web, actualmente focado em ReactJS e TypeScript para o desenvolvimento dos meus projectos
+Olá o meu nome é Kelven Horácio João Rubalaine, Desenvolvedor Frontend em React JS e Mobile developer com React Native, gosto de criar interfaces de usuario que dão gosto aos olhos e responsivas, então a minha área de estudo e desenvolvimento está sempre ligada a produtos visuais. 
+Estou no desenvolviemnto  web desde 2019 e dentro desse periodo pude experienciar varios desafios, resolvi varios problemas de diferentes categorias.
+Hoje procuro novos desafios para poder melhorar as minhas habilidades e conhecimentos de desenvolvimento
 
-<table align="center">
-<tbody>
-<td>
-    
-![Rubalaine's Github stats](https://github-readme-stats.vercel.app/api?username=Rubalaine&theme=dark&show_icons=true)
-</td>
-<td>
-    
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rubalaine&exclude_repo=natours-css&theme=dark&hide=hack&text_color=BDDFFF&layout=compact)
-</td>
-</tbody>
-</table>
